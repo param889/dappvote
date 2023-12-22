@@ -19,9 +19,10 @@ const Banner = () => {
       <h1 className="text-[45px] font-[600px] text-center leading-none">
         Blockchain Voting System
       </h1>
-      <p className="text-[16px] font-[500px] text-center">
-        A beauty pageantry is a competition that has traditionally focused on judging and ranking
-        the physical...
+      <p className="text-[16px] font-[500px] text-center max-w-lg mx-auto">
+        Unlike traditional voting systems, which often rely on centralized authorities and paper
+        ballots, blockchain voting leverages the decentralized and tamper-resistant nature of
+        blockchain to ensure the integrity and accuracy of the voting process.
       </p>
 
       <button
